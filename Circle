@@ -15,7 +15,6 @@ public class Circle
 	//Return radius of the circle
 	public double getRadius()
 	{
-		
 		return radius;
 	}
 
