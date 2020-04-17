@@ -26,7 +26,7 @@ public class Circle
 
 	//Write a method below this line called getArea to return the area of the circle
 	public double getArea () {
-		double area = (Math. pow(radius, 2) * Math.PI);
+		double area = (Math.pow(radius, 2) * Math.PI);
 		return area;
 	}
 
